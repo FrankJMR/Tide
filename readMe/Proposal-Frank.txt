@@ -1,0 +1,26 @@
+1. Tide
+2. Frank Martinez(solo)
+3. A small game built using Swing. 
+4. Application features:
+			1. Level design create ocean physics 
+			2. Render player, enemies and projectiles
+			3. Move player -> keyAdapter/keyListener
+			4. Move enemies/projectiles
+			5. More sophisticated enemy movement
+			6. Player and projectile collision
+			7. Life system.
+			8. Enemy fire timer
+			9. Refine player movement(less choppy)
+			10. Random Enemy firing
+			11. Game over screen
+			12. Background Music
+-------------------------------------------------------
+Desired features:
+			1. Game Start screen
+			2. Animated player w/sprites
+			3. Powerups
+			4. Offensive capabilities-> Playable ship that can shoot projectiles at enemy ships using mouse listener
+			5. Wave system
+
+5.I used Java for this project
+6. Probably polymorphism
